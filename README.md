@@ -1,12 +1,10 @@
 ![Header banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Rushil&fontSize=45&fontColor=ffffff&animation=fadeIn)
 
-### Hey, I'm Rushil 👋
-
 CS student at BITS Pilani, transferring to the University at Buffalo (Fall 2026). This summer I'm building daily and pushing it all here — a mix of DSA, security tooling, and whatever else I get curious about.
 
 - 🔐 Currently interning in cybersecurity (SOC ops, log analysis, network security)
 - 📚 Grinding through DSA (NeetCode 150) for internship prep
-- 🌱 Always shipping something — check the activity graph below, it doesn't lie
+- 🌱 Always shipping something — check the activity stats below
 
 #### Tech I've been working with
 
@@ -21,10 +19,18 @@ CS student at BITS Pilani, transferring to the University at Buffalo (Fall 2026)
 
 #### GitHub stats
 
-![Rushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RushilJain96&show_icons=true&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RushilJain96&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RushilJain96&hide_border=true)
+<details>
+<summary>More stats</summary>
+
+![Rushil's GitHub stats](https://github-readme-stats.vercel.app/api?username=RushilJain96&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushilJain96&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+
+</details>
 
 #### Find me elsewhere
 
-<!-- Add LinkedIn / portfolio links here once ready -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushil-jain-39a9b8320/)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Rushil0906)
